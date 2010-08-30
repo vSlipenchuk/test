@@ -2,4 +2,5 @@ Hello!
 And new one?
 And again?
 The new line
+Conflict?
 Other conflict?
