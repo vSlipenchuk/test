@@ -4,3 +4,4 @@ And again?
 The new line
 Conflict?
 Other conflict?
+And a new one
